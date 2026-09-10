@@ -10,7 +10,7 @@ let package = Package(
         .macOS(.v10_13),
         .tvOS(.v12),
         .visionOS(.v1),
-        .watchOS(.v4),
+        .watchOS(.v9),
     ],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
